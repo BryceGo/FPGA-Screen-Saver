@@ -1,0 +1,9 @@
+
+State Machine - |lab3|controller:control|PS
+Name PS.erase PS.delay PS.finish PS.floop PS.b_line PS.fill_screen 
+PS.fill_screen 0 0 0 0 0 0 
+PS.b_line 0 0 0 0 1 1 
+PS.floop 0 0 0 1 0 1 
+PS.finish 0 0 1 0 0 1 
+PS.delay 0 1 0 0 0 1 
+PS.erase 1 0 0 0 0 1 

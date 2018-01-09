@@ -1,0 +1,18 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.numeric_std.all;
+
+ENTITY waitonesec IS
+PORT ( clock, reset		: IN STD_LOGIC;
+		done					: OUT STD_LOGIC);
+END waitonesec;
+
+
+ARCHITECTURE behaviour OF waitonesec IS
+BEGIN
+
+
+PROCESS(clock, reset)
+
+
+END behaviour;

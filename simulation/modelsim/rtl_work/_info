@@ -1,0 +1,176 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bgolamco/Desktop/lab3/simulation/modelsim
+Ebline
+Z1 w1487378495
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/bgolamco/Desktop/lab3/bline.vhd
+Z6 FC:/Users/bgolamco/Desktop/lab3/bline.vhd
+l0
+L6
+VdeaGd3XJ]5kaYLVacM;`81
+!s100 ?<neh<m[GH7=I1PddX=n`2
+Z7 OV;C;10.3d;59
+31
+Z8 !s110 1487379897
+!i10b 1
+Z9 !s108 1487379897.439000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/bgolamco/Desktop/lab3/bline.vhd|
+Z11 !s107 C:/Users/bgolamco/Desktop/lab3/bline.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1
+Abehaviour
+R2
+R3
+R4
+DEx4 work 5 bline 0 22 deaGd3XJ]5kaYLVacM;`81
+l20
+L18
+V@gD>Z@jn[S:DhTW2X9>0X1
+!s100 I>SJme0ma1NcK4I57d9gn1
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Elab3
+Z14 w1487379564
+R2
+R3
+R4
+R0
+Z15 8C:/Users/bgolamco/Desktop/lab3/lab3.vhd
+Z16 FC:/Users/bgolamco/Desktop/lab3/lab3.vhd
+l0
+L5
+VB3BCEnY=f?V2QihCndNnh0
+!s100 ]4IM6E@n83GHG;:Z63MT81
+R7
+31
+R8
+!i10b 1
+Z17 !s108 1487379897.086000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/bgolamco/Desktop/lab3/lab3.vhd|
+Z19 !s107 C:/Users/bgolamco/Desktop/lab3/lab3.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 4 lab3 0 22 B3BCEnY=f?V2QihCndNnh0
+l63
+L19
+Vk_d^?l8^Pdk4`;n__UM]82
+!s100 aQcP1kSf]5LQzSbZWmX?j1
+R7
+31
+R8
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12
+R13
+vvga_adapter
+Z20 !s110 1487379896
+!i10b 1
+!s100 ^k>mh9R69ZY:SOiVVRE?42
+IDOo0gM?1MN<Co]D<ogzJS3
+Z21 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+Z22 w1485318590
+8C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_adapter.v
+FC:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_adapter.v
+L0 78
+Z23 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1487379896.806000
+!s107 C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files|C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_adapter.v|
+!i113 1
+Z24 o-vlog01compat -work work
+Z25 !s92 -vlog01compat -work work +incdir+C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files
+vvga_address_translator
+R20
+!i10b 1
+!s100 Z`O4OYla;7H?DcIdfCeSj2
+IAk18`A5PmK[:3nBdV:m8n1
+R21
+R0
+R22
+8C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_address_translator.v
+FC:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_address_translator.v
+L0 4
+R23
+r1
+!s85 0
+31
+!s108 1487379896.759000
+!s107 C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_address_translator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files|C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_address_translator.v|
+!i113 1
+R24
+R25
+vvga_controller
+R20
+!i10b 1
+!s100 efk:C[Ql4538<=f1MiFP:3
+I0Pn3?;i5JLWIhR]CQ2U8;0
+R21
+R0
+R22
+8C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_controller.v
+FC:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_controller.v
+L0 9
+R23
+r1
+!s85 0
+31
+!s108 1487379896.712000
+!s107 C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files|C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_controller.v|
+!i113 1
+R24
+R25
+vvga_pll
+R20
+!i10b 1
+!s100 4XSTjD`VEiamX^n1@5J`b3
+Iel1EZ5WdUICNn9?hzMEKT0
+R21
+R0
+R22
+8C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_pll.v
+FC:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_pll.v
+L0 36
+R23
+r1
+!s85 0
+31
+!s108 1487379896.618000
+!s107 C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files|C:/Users/bgolamco/Desktop/lab3/VGA_Core_Files/vga_pll.v|
+!i113 1
+R24
+R25
